@@ -1,4 +1,4 @@
-# Tribute-page
+# Beyonce's Tribute-page
 
-This is a tribute page I made  https://lanrewaju94.github.io/Tribute-page/.
+### [A Tribute page for Beyonce](https://lanrewaju94.github.io/Tribute-page/)
 
