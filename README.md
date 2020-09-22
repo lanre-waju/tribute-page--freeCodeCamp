@@ -1,4 +1,4 @@
 # Beyonce's Tribute page
 
-###  [A Tribute page for Beyonce](https://lanrewaju94.github.io/tribute-page--freeCodeCamp/)
+###  [A Tribute page for Beyonce](https://lanre-waju.github.io/tribute-page--freeCodeCamp/)
 
